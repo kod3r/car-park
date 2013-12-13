@@ -16,4 +16,5 @@ The project is built using Maven using the command 'mvn clean install'. This wil
 tests.<br>
 ### Installation
 Car Park requires version 1.7 of the Java Runtime Environment to be available on the target machine.<br>
-### Changelog: 1.0 - First version.<br>
+### Changelog
+1.0 - First version.<br>
